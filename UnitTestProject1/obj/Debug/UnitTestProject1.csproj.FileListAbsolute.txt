@@ -1,0 +1,7 @@
+C:\Projects\StrategyPattern\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+C:\Projects\StrategyPattern\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+C:\Projects\StrategyPattern\UnitTestProject1\bin\Debug\Domain.dll
+C:\Projects\StrategyPattern\UnitTestProject1\bin\Debug\Domain.pdb
+C:\Projects\StrategyPattern\UnitTestProject1\obj\Debug\UnitTestProject1.csprojResolveAssemblyReference.cache
+C:\Projects\StrategyPattern\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+C:\Projects\StrategyPattern\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
